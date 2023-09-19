@@ -10,6 +10,7 @@ import numpy as np
 
 # Initialize the Dash app
 app = dash.Dash(__name__,use_pages=True)
+server = app.server
 
 app.layout = html.Div([
         html.Header(id="header",children=[
