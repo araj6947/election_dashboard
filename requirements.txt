@@ -2,3 +2,6 @@ dash
 plotly
 sqlalchemy
 gunicorn
+pandas
+numpy
+sqlalchemy
